@@ -69,7 +69,6 @@ jose.forward(100)
 jose.pendown()
 jose.circle(50)
 
-
 # Jose moves to draw the front tire of the car
 jose.left(90)
 jose.forward(200)
