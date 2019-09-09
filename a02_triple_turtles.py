@@ -1,9 +1,9 @@
 ######################################################################
-# Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
-# Username: lovelle & heggens                     TODO: Change this to your username, if modifying
+# Author: Emily Lovell & Scott Heggen
+# Username: lovelle & heggens
 #
 
-# Assignment: A02: Exploring Turtles in Python
+# Assignment: A02: Loopy Turtle, Loopy Languages
 # Purpose: Draws a 3D cube using turtles and nested for loops
 ######################################################################
 # Acknowledgements:
